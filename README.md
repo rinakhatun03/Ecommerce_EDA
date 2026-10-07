@@ -312,7 +312,6 @@ Additional time-based features are created, including:
 
 The Python analysis generated the following visualizations.
 
-
 ### 9.1 Monthly Revenue Trend
 
 ![Monthly Revenue Trend](visualizations/01_monthly_revenue_trend.png)
@@ -423,6 +422,9 @@ Ecommerce_EDA/
 
 The Python EDA script was executed successfully and generated the analysis results and visualizations shown below.
 
+### Python Terminal Output
+
+![Python Terminal Output](https://github.com/rinakhatun03/Ecommerce_EDA/blob/main/python_output_screenshot/Screenshot%202026-10-07%20225415.png?raw=true)
 
 ### 12.1 Monthly Revenue Trend
 
