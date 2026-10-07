@@ -312,6 +312,7 @@ Additional time-based features are created, including:
 
 The Python analysis generated the following visualizations.
 
+
 ### 9.1 Monthly Revenue Trend
 
 ![Monthly Revenue Trend](visualizations/01_monthly_revenue_trend.png)
@@ -387,6 +388,12 @@ Ecommerce_EDA/
 ├── ecommerce_excel_eda.py
 ├── README.md
 ├── .gitignore
+├── EXCEL_PROJECT(1).xlsx
+│
+├── python_output_screenshot/
+|   ├── Screenshot 2026-10-07 225415.png
+|   ├── Screenshot 2026-10-07 225439.png
+|   └── Screenshot 2026-10-07 225450.png
 │
 ├── eda_summary_tables/
 │   ├── kpis.csv
