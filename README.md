@@ -422,10 +422,17 @@ Ecommerce_EDA/
 
 The Python EDA script was executed successfully and generated the analysis results and visualizations shown below.
 
-### Python Terminal Output
+### Python Execution Output 1
 
-![Python Terminal Output](https://github.com/rinakhatun03/Ecommerce_EDA/blob/main/python_output_screenshot/Screenshot%202026-10-07%20225415.png?raw=true)
+![Python Execution Output 1](https://github.com/rinakhatun03/Ecommerce_EDA/blob/main/python_output_screenshot/Screenshot%202026-10-07%20225415.png?raw=true)
 
+### Python Execution Output 2
+
+![Python Execution Output 2](https://github.com/rinakhatun03/Ecommerce_EDA/blob/main/python_output_screenshot/Screenshot%202026-10-07%20225439.png?raw=true)
+
+### Python Execution Output 3
+
+![Python Execution Output 3](https://github.com/rinakhatun03/Ecommerce_EDA/blob/main/python_output_screenshot/Screenshot%202026-10-07%20225450.png?raw=true)
 ### 12.1 Monthly Revenue Trend
 
 ![Monthly Revenue Trend](visualizations/01_monthly_revenue_trend.png)
