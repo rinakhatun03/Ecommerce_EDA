@@ -45,9 +45,9 @@ The project follows a structured data analysis workflow that combines Microsoft 
                               ▼
                     Python EDA Script
                   (ecommerce_excel_eda.py)
-                              │
-                ┌─────────────┴─────────────┐
-                ▼                           ▼
+                               │
+                ┌────────────┴─────────────┐
+                ▼                              ▼
           Data Cleaning              Feature Engineering
                 │                           │
                 ├── Missing Values         ├── Year
@@ -62,24 +62,24 @@ The project follows a structured data analysis workflow that combines Microsoft 
                 ▼
           Exploratory Data Analysis
                 │
-       ┌────────┼──────────┐
-       ▼        ▼          ▼
+       ┌──────┼──────────┐
+       ▼       ▼           ▼
       KPIs   Summary      Statistical
              Tables       Analysis
        │        │          │
-       ▼        ▼          ▼
+       ▼       ▼          ▼
     KPI CSVs  Summary     Correlation
               CSVs        Analysis
                 │
                 ▼
           Data Visualizations
                 │
-       ┌────────┼──────────┐
+       ┌───────┼──────────┐
        ▼        ▼          ▼
     Revenue   Customer   Geographic
      Trends    Analysis    Analysis
-       │        │          │
-       └────────┼──────────┘
+       │        │            │
+       └───────┼──────────┘
                 ▼
           Business Insights
                 │
@@ -518,21 +518,3 @@ python ecommerce_excel_eda.py
 ```
 
 The script generates the analysis summary tables and visualization files.
-
----
-
-## 14. Data Privacy
-
-The original customer-level dataset is not included in this public repository.
-
-The repository contains the analysis code, aggregated summary tables, generated visualizations, and project documentation.
-
----
-
-## 15. Conclusion
-
-This project demonstrates an end-to-end approach to e-commerce sales analysis using Excel and Python.
-
-Excel PivotTables were used to perform business-oriented analysis, while Python was used for data processing, exploratory analysis, KPI calculation, and visualization.
-
-The combined analysis provides insights into sales trends, customer characteristics, product categories, sales channels, order status, and geographical sales performance.
